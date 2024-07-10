@@ -1,0 +1,27 @@
+.contenedorRegistro{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content:center;
+    max-width: 80%;
+    margin: auto;
+    padding: 100px;
+}
+.forma{
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: beige;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 80%;
+}
+button{
+    border-radius: 5px;
+    background-color: rgba(20, 149, 247, 0.837);
+}
+
+.p-error{
+    color: red;
+}

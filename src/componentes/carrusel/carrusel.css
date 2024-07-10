@@ -1,0 +1,22 @@
+.container-fluid {
+    height: 50%;
+    width: 100%;
+    }
+    
+.carousel-inner img {
+    height: auto;
+    max-height:400px;
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: lightseagreen;
+    }
+#carouselExampleIndicators{
+    padding: 20px; 
+}
+.carousel-inner{
+    border-radius: 10px;
+}
+
+img{
+    height: 300px;
+}

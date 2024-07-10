@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "nombres": "David Alejandro",
+        "apellidos": "Robledo Acevedo",
+        "email": "david123@gmail.com",
+        "direccion": "mz 21 cs 27 poblado 2",
+        "telefono": "3217254256",
+        "fechaNacimiento": "2000-01-24",
+        "password": "David24pro",
+        "estado": "Activo",
+        "rol": "Usuario",
+        "fechaCreacion": "2024-05-07T21:39:30.926Z"
+    }
+]
