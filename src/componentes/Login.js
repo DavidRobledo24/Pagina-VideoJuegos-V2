@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import FireBaseAuth from '@mui/icons-material/GitHub';
+// import FireBaseAuth from '@mui/icons-material/GitHub';
 
 import Swal from 'sweetalert2';
 import Cookies from 'universal-cookie'
@@ -8,6 +8,7 @@ import { AlternateEmail } from '@mui/icons-material';
 import PasswordIcon  from '@mui/icons-material/Password';
 import GroupIcon from '@mui/icons-material/Group';
 import GoogleOAuth from './googleOAuth/GoogleOAuth';
+import FireBaseAuth from './FireBase/FireBaseAuth'
 
 
 
